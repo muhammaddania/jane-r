@@ -46,7 +46,7 @@ jane r
     </section>
 
     <footer>
-        <p>&copy; 2023 Your Name</p>
+        <p>&copy; 2023 jane r</p>
     </footer>
 </body>
 </html>
