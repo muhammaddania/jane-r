@@ -1,20 +1,19 @@
-# jane-r
-jane r
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
+    <title>Jane R - Developer Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Jane R</h1>
         <nav>
             <ul>
                 <li><a href="#about">About Me</a></li>
                 <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#skills">Skills</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
@@ -22,12 +21,12 @@ jane r
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Welcome to my portfolio website. I am a [Your Profession] with a passion for [Your Interests].</p>
+        <p>Welcome to my portfolio website. I am a Developer with a passion for creating web applications and solving complex problems.</p>
     </section>
 
     <section id="portfolio">
         <h2>Portfolio</h2>
-        <!-- addd project name -->
+        <!-- Add your projects here -->
         <div class="project">
             <img src="project1.jpg" alt="Project 1">
             <h3>Project 1</h3>
@@ -40,13 +39,25 @@ jane r
         </div>
     </section>
 
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML/CSS</li>
+            <li>JavaScript</li>
+            <li>React.js</li>
+            <li>Node.js</li>
+            <li>Database Management</li>
+        </ul>
+    </section>
+
     <section id="contact">
         <h2>Contact</h2>
-        <p>You can reach me at <a href="mailto:your.email@khan.com">your.email@khan.com</a>.</p>
+        <p>You can reach me at <a href="mailto:khan@gmail.com">khan@gmail.com</a>.</p>
     </section>
 
     <footer>
-        <p>&copy; 2023 jane r</p>
+        <p>&copy; 2023 Jane R</p>
     </footer>
 </body>
 </html>
+
