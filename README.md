@@ -27,7 +27,7 @@ jane r
 
     <section id="portfolio">
         <h2>Portfolio</h2>
-        <!-- Add your projects here -->
+        <!-- addd project name -->
         <div class="project">
             <img src="project1.jpg" alt="Project 1">
             <h3>Project 1</h3>
@@ -42,7 +42,7 @@ jane r
 
     <section id="contact">
         <h2>Contact</h2>
-        <p>You can reach me at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
+        <p>You can reach me at <a href="mailto:your.email@khan.com">your.email@khan.com</a>.</p>
     </section>
 
     <footer>
